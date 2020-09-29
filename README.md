@@ -8,7 +8,7 @@ A tool to check the vendor of a MAC address.
 
 # Usage
 ```
-./searchoui.py <mac address>                                                            
+./searchoui.py <mac address>
 ```
 
 # Successful search
