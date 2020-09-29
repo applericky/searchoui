@@ -13,17 +13,17 @@ A tool to check the vendor of a MAC address.
 
 # Successful search
 ```
-./searchoui.py F4BD9E                                                              
+./searchoui.py F4BD9E
 Cisco Systems, Inc
 ```
 # Unsuccessful Search
 ```
-./searchoui.py abc                                                                 
+./searchoui.py abc
 MAC address not found.
 ```
 
 # Missing argument
 ```
-./searchoui.py                                                                      
+./searchoui.py
 No MAC address entered.
 ```
